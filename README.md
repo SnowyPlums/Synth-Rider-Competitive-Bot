@@ -28,7 +28,7 @@ Something to edit code with such as Visual Studio Code or Atom
 
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications) and create an application and go in there
 
-2. Go to the "Bot" tabe on the left and fix the name and picture
+2. Go to the "Bot" tab on the left and fix the name and picture
 
 3. Click "Click to Reveal Token" and copy that or just click the "Copy" button. You need to insert that into the variable "token" in the index.js file
 
