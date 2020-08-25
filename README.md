@@ -54,6 +54,6 @@ Something to edit code with such as Visual Studio Code or Atom
 
 4. Write "npm install canvas" wait for it to install
 
-5. Write "npm install mysql" wait for it so install
+5. Write "npm install mysql" wait for it to install
 
 6. Write "node." and the bot should start
