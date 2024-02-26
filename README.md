@@ -3,6 +3,11 @@ A bot for the Synth Rider Competitive Discord Server
 
 This is free for everyone to use
 
+## NOTE
+This bot does not work anymore because of how discord wants to set up bots.
+
+It is not impossible to fix but may require time to go through this horrible code.
+
 ## Installation
 [MySQL Installer](https://dev.mysql.com/downloads/installer/) In the installer you need:
 
