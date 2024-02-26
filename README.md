@@ -53,7 +53,7 @@ Something to edit code with such as Visual Studio Code or Atom
 
 1. Navigate to the bot folder in CMD
 
-2. Write "npm init" and just press enter besides maybe "Author" where you can put your name or my name if you want (ThoruDesu).
+2. Write "npm init" and just press enter besides maybe "Author" where you can put your name or my name if you want (SnowyPlums).
 
 3. Write "npm install discord.js" wait for it to install
 
