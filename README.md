@@ -1,7 +1,7 @@
 # Synth Rider Competitive Bot
 A bot for the Synth Rider Competitive Discord Server.
 
-This bot was created to create server events and log when everyonw could play.
+This bot was created to create server events and log when everyone could play.
 It gives a nice output in the form of an image that shows the asked for information depending on what command was used.
 
 This is free for everyone to use
